@@ -107,7 +107,7 @@ a, .flip-card-back h2{
     
   }
   .flip-card-back {
-    background-color: burlywood;
+    background-color: rgb(135, 163, 222);
     text-align: center;
     transform: rotateY(180deg);
     display: flex;
@@ -120,7 +120,7 @@ a, .flip-card-back h2{
   }
   .flip-card-back h2{
       font-weight: 800;
-      color:rgb(116, 80, 35);
+      color:rgb(43, 35, 116);
       font-size: 1.5em;
   }
   
@@ -152,7 +152,7 @@ a, .flip-card-back h2{
 }
 .flip-card-back p{
     text-decoration: none;
-    color:blanchedalmond;
+    color:rgb(205, 208, 255);
     font-weight: 600;
     font-size: 1.5em;;
 }
